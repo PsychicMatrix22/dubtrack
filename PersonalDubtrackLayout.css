@@ -47,6 +47,15 @@
     color: #33CCFF;
 }
 
+
+#chat .chat-container .chat-messages .chat-main li.isDefault .user-role,
+#chat .chat-container .chat-messages .chat-main li.isDefault .username,
+#main_avatar_room #main-user-list-room #avatar-list li.isDefault .user-role,
+#main_avatar_room #main-user-list-room #avatar-list li.isDefault .username
+{
+    color:green;
+}
+
 #chat .chat-container .chat-messages .chat-main li.admin .user-role,
 #chat .chat-container .chat-messages .chat-main li.admin .username,
 #main_avatar_room #main-user-list-room #avatar-list li.admin .user-role,

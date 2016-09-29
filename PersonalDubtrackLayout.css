@@ -48,10 +48,10 @@
 }
 
 
-#chat .chat-container .chat-messages .chat-main li.isDefault .user-role,
-#chat .chat-container .chat-messages .chat-main li.isDefault .username,
-#main_avatar_room #main-user-list-room #avatar-list li.isDefault .user-role,
-#main_avatar_room #main-user-list-room #avatar-list li.isDefault .username
+#chat .chat-container .chat-messages .chat-main li.chat-id-56d47266a3af139b0357f646-1475170451978 .user-role,
+#chat .chat-container .chat-messages .chat-main li.chat-id-56d47266a3af139b0357f646-1475170451978 .username,
+#main_avatar_room #main-user-list-room #avatar-list li.chat-id-56d47266a3af139b0357f646-1475170451978 .user-role,
+#main_avatar_room #main-user-list-room #avatar-list li.chat-id-56d47266a3af139b0357f646-1475170451978 .username
 {
     color:green;
 }
